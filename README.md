@@ -1,5 +1,5 @@
 # Ultimate Windows Toolbox
-I am Studing Trying to work on my college project
+I am Student trying to work on my college project
 
 ## My Additions
 - One command to run
