@@ -1,5 +1,5 @@
 # Ultimate Windows Toolbox
-This script is the culmination of many scripts and gists from github with features of my own. I am building this script to be a swiss army knife of Windows tools to help setup and optimize machines.
+I am Studing Trying to work on my college project
 
 ## My Additions
 - One command to run
